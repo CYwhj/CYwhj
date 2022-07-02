@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CYwhj
 - 👀 I’m interested in Learn programming
-- 🌱 I’m currently learning Python and C#
+- 🌱 I’m currently learning Python and HTML+CSS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
